@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Niass GitDataLab
+email: elhadjisaliou.niass.etu@univ-lille.fr
+url: https://github.com/saliouetu/grayscale-theme
+description: "As a Master's student in Data Science (University of Lille, Centrale Lille, IMT Nord), I combine analytical skills with a passion for data. This site presents my projects and work completed during my studies, with concrete examples of my skills in analysis, visualization, and machine learning."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,16 +14,14 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkdn
+    url: www.linkedin.com/in/el-hadji-saliou-niass-2833a4349
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/saliouetu
 
 # Build settings
 markdown: kramdown
